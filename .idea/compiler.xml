@@ -7,9 +7,14 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="mybatis-ch01" />
+        <module name="mybatis-generator" />
         <module name="pattern-factory" />
         <module name="pattern-prototype" />
+        <module name="pattern-proxy" />
         <module name="pattern-singleton" />
+        <module name="pattern-strategy" />
+        <module name="pattern-template" />
       </profile>
     </annotationProcessing>
   </component>
