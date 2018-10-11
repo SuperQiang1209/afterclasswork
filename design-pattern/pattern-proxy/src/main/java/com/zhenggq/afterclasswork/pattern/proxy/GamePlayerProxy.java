@@ -13,10 +13,10 @@ import java.lang.reflect.Method;
 public class GamePlayerProxy implements ZGQInvocationHandler {
 
     private IGamePlayer player;
+    Class clazz = player.getClass();
 
     public Object getInstance(IGamePlayer player) {
         this.player = player;
-        Class clazz = player.getClass();
 
         return ZGQProxy.newProxyInstance(new ZGQClassLoader(), clazz.getInterfaces(), this);
     }

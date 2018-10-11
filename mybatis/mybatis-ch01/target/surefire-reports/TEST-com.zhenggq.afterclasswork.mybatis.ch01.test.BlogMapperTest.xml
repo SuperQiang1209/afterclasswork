@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuite tests="1" failures="0" name="com.zhenggq.afterclasswork.mybatis.ch01.test.BlogMapperTest" time="0.494" errors="1" skipped="0">
+  <properties>
+    <property name="java.runtime.name" value="Java(TM) SE Runtime Environment"/>
+    <property name="sun.boot.library.path" value="C:\Program Files (x86)\Java\jdk1.8.0_161\jre\bin"/>
+    <property name="java.vm.version" value="25.161-b12"/>
+    <property name="java.vm.vendor" value="Oracle Corporation"/>
+    <property name="java.vendor.url" value="http://java.oracle.com/"/>
+    <property name="path.separator" value=";"/>
+    <property name="guice.disable.misplaced.annotation.check" value="true"/>
+    <property name="java.vm.name" value="Java HotSpot(TM) Client VM"/>
+    <property name="file.encoding.pkg" value="sun.io"/>
+    <property name="user.script" value=""/>
+    <property name="user.country" value="CN"/>
+    <property name="sun.java.launcher" value="SUN_STANDARD"/>
+    <property name="sun.os.patch.level" value=""/>
+    <property name="java.vm.specification.name" value="Java Virtual Machine Specification"/>
+    <property name="user.dir" value="D:\Java\Share\afterclasswork\mybatis\mybatis-ch01"/>
+    <property name="java.runtime.version" value="1.8.0_161-b12"/>
+    <property name="java.awt.graphicsenv" value="sun.awt.Win32GraphicsEnvironment"/>
+    <property name="java.endorsed.dirs" value="C:\Program Files (x86)\Java\jdk1.8.0_161\jre\lib\endorsed"/>
+    <property name="os.arch" value="x86"/>
+    <property name="java.io.tmpdir" value="C:\Users\Zhenggq\AppData\Local\Temp\"/>
+    <property name="line.separator" value="
+"/>
+    <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
+    <property name="user.variant" value=""/>
+    <property name="os.name" value="Windows 10"/>
+    <property name="classworlds.conf" value="D:\Java\apache-maven-3.2.5\bin\..\bin\m2.conf"/>
+    <property name="sun.jnu.encoding" value="GBK"/>
+    <property name="java.library.path" value="C:\Program Files (x86)\Java\jdk1.8.0_161\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;C:\ProgramData\Oracle\Java\javapath;D:\app\oracle11g\product\11.2.0\client_1\bin;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Program Files\Intel\WiFi\bin\;C:\Program Files\Common Files\Intel\WirelessCommon\;D:\Java\apache-maven-3.2.5\bin;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;D:\Program Files\MongoDB\Server\3.6\bin;C:\Program Files (x86)\Java\jdk1.8.0_161\bin;C:\Program Files (x86)\Java\jdk1.8.0_161\jre\bin;D:\Java\gradle\gradle-2.14.1\bin;D:\Program Files\Git\cmd;C:\Users\Zhenggq\AppData\Local\Microsoft\WindowsApps;C:\Program Files\Intel\WiFi\bin\;C:\Program Files\Common Files\Intel\WirelessCommon\;C:\Users\Zhenggq\AppData\Local\Programs\Fiddler;D:\Program Files\Bandizip\;C:\Users\Zhenggq\AppData\Local\GitHubDesktop\bin;D:\Program Files\Microsoft VS Code\bin;."/>
+    <property name="java.specification.name" value="Java Platform API Specification"/>
+    <property name="java.class.version" value="52.0"/>
+    <property name="sun.management.compiler" value="HotSpot Client Compiler"/>
+    <property name="os.version" value="10.0"/>
+    <property name="user.home" value="C:\Users\Zhenggq"/>
+    <property name="user.timezone" value="Asia/Shanghai"/>
+    <property name="java.awt.printerjob" value="sun.awt.windows.WPrinterJob"/>
+    <property name="java.specification.version" value="1.8"/>
+    <property name="file.encoding" value="GBK"/>
+    <property name="user.name" value="Zhenggq"/>
+    <property name="java.class.path" value="D:\Java\apache-maven-3.2.5\bin\..\boot\plexus-classworlds-2.5.2.jar"/>
+    <property name="java.vm.specification.version" value="1.8"/>
+    <property name="sun.arch.data.model" value="32"/>
+    <property name="java.home" value="C:\Program Files (x86)\Java\jdk1.8.0_161\jre"/>
+    <property name="sun.java.command" value="org.codehaus.plexus.classworlds.launcher.Launcher install -Dmvn.test.skip=true"/>
+    <property name="java.specification.vendor" value="Oracle Corporation"/>
+    <property name="user.language" value="zh"/>
+    <property name="awt.toolkit" value="sun.awt.windows.WToolkit"/>
+    <property name="java.vm.info" value="mixed mode, sharing"/>
+    <property name="java.version" value="1.8.0_161"/>
+    <property name="java.ext.dirs" value="C:\Program Files (x86)\Java\jdk1.8.0_161\jre\lib\ext;C:\Windows\Sun\Java\lib\ext"/>
+    <property name="sun.boot.class.path" value="C:\Program Files (x86)\Java\jdk1.8.0_161\jre\lib\resources.jar;C:\Program Files (x86)\Java\jdk1.8.0_161\jre\lib\rt.jar;C:\Program Files (x86)\Java\jdk1.8.0_161\jre\lib\sunrsasign.jar;C:\Program Files (x86)\Java\jdk1.8.0_161\jre\lib\jsse.jar;C:\Program Files (x86)\Java\jdk1.8.0_161\jre\lib\jce.jar;C:\Program Files (x86)\Java\jdk1.8.0_161\jre\lib\charsets.jar;C:\Program Files (x86)\Java\jdk1.8.0_161\jre\lib\jfr.jar;C:\Program Files (x86)\Java\jdk1.8.0_161\jre\classes"/>
+    <property name="sun.stderr.encoding" value="ms936"/>
+    <property name="java.vendor" value="Oracle Corporation"/>
+    <property name="maven.home" value="D:\Java\apache-maven-3.2.5\bin\.."/>
+    <property name="mvn.test.skip" value="true"/>
+    <property name="file.separator" value="\"/>
+    <property name="java.vendor.url.bug" value="http://bugreport.sun.com/bugreport/"/>
+    <property name="sun.cpu.endian" value="little"/>
+    <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
+    <property name="sun.stdout.encoding" value="ms936"/>
+    <property name="sun.desktop" value="windows"/>
+    <property name="sun.cpu.isalist" value="pentium_pro+mmx pentium_pro pentium+mmx pentium i486 i386 i86"/>
+  </properties>
+  <testcase classname="com.zhenggq.afterclasswork.mybatis.ch01.test.BlogMapperTest" name="com.zhenggq.afterclasswork.mybatis.ch01.test.BlogMapperTest" time="0.494">
+    <error message="
+### Error building SqlSession.
+### The error may exist in mapper/BlogMapper.xml
+### The error occurred while processing mapper_resultMap[BaseResultMap]
+### Cause: org.apache.ibatis.builder.BuilderException: Error parsing SQL Mapper Configuration. Cause: org.apache.ibatis.builder.BuilderException: Error parsing Mapper XML. The XML location is &apos;mapper/BlogMapper.xml&apos;. Cause: java.lang.IllegalStateException: Type handler was null on parameter mapping for property &apos;authorId&apos;. It was either not specified and/or could not be found for the javaType (com.zhenggq.afterclasswork.mybatis.ch01.vo.Author) : jdbcType (INTEGER) combination." type="org.apache.ibatis.exceptions.PersistenceException">org.apache.ibatis.exceptions.PersistenceException: 
+### Error building SqlSession.
+### The error may exist in mapper/BlogMapper.xml
+### The error occurred while processing mapper_resultMap[BaseResultMap]
+### Cause: org.apache.ibatis.builder.BuilderException: Error parsing SQL Mapper Configuration. Cause: org.apache.ibatis.builder.BuilderException: Error parsing Mapper XML. The XML location is &apos;mapper/BlogMapper.xml&apos;. Cause: java.lang.IllegalStateException: Type handler was null on parameter mapping for property &apos;authorId&apos;. It was either not specified and/or could not be found for the javaType (com.zhenggq.afterclasswork.mybatis.ch01.vo.Author) : jdbcType (INTEGER) combination.
+	at org.apache.ibatis.exceptions.ExceptionFactory.wrapException(ExceptionFactory.java:30)
+	at org.apache.ibatis.session.SqlSessionFactoryBuilder.build(SqlSessionFactoryBuilder.java:80)
+	at org.apache.ibatis.session.SqlSessionFactoryBuilder.build(SqlSessionFactoryBuilder.java:64)
+	at com.zhenggq.afterclasswork.mybatis.ch01.test.BlogMapperTest.loadConfig(BlogMapperTest.java:31)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.junit.runners.model.FrameworkMethod$1.runReflectiveCall(FrameworkMethod.java:50)
+	at org.junit.internal.runners.model.ReflectiveCallable.run(ReflectiveCallable.java:12)
+	at org.junit.runners.model.FrameworkMethod.invokeExplosively(FrameworkMethod.java:47)
+	at org.junit.internal.runners.statements.RunBefores.evaluate(RunBefores.java:24)
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:363)
+	at org.apache.maven.surefire.junit4.JUnit4Provider.execute(JUnit4Provider.java:252)
+	at org.apache.maven.surefire.junit4.JUnit4Provider.executeTestSet(JUnit4Provider.java:141)
+	at org.apache.maven.surefire.junit4.JUnit4Provider.invoke(JUnit4Provider.java:112)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.apache.maven.surefire.util.ReflectionUtils.invokeMethodWithArray(ReflectionUtils.java:189)
+	at org.apache.maven.surefire.booter.ProviderFactory$ProviderProxy.invoke(ProviderFactory.java:165)
+	at org.apache.maven.surefire.booter.ProviderFactory.invokeProvider(ProviderFactory.java:85)
+	at org.apache.maven.surefire.booter.ForkedBooter.runSuitesInProcess(ForkedBooter.java:115)
+	at org.apache.maven.surefire.booter.ForkedBooter.main(ForkedBooter.java:75)
+Caused by: org.apache.ibatis.builder.BuilderException: Error parsing SQL Mapper Configuration. Cause: org.apache.ibatis.builder.BuilderException: Error parsing Mapper XML. The XML location is &apos;mapper/BlogMapper.xml&apos;. Cause: java.lang.IllegalStateException: Type handler was null on parameter mapping for property &apos;authorId&apos;. It was either not specified and/or could not be found for the javaType (com.zhenggq.afterclasswork.mybatis.ch01.vo.Author) : jdbcType (INTEGER) combination.
+	at org.apache.ibatis.builder.xml.XMLConfigBuilder.parseConfiguration(XMLConfigBuilder.java:121)
+	at org.apache.ibatis.builder.xml.XMLConfigBuilder.parse(XMLConfigBuilder.java:99)
+	at org.apache.ibatis.session.SqlSessionFactoryBuilder.build(SqlSessionFactoryBuilder.java:78)
+	... 23 more
+Caused by: org.apache.ibatis.builder.BuilderException: Error parsing Mapper XML. The XML location is &apos;mapper/BlogMapper.xml&apos;. Cause: java.lang.IllegalStateException: Type handler was null on parameter mapping for property &apos;authorId&apos;. It was either not specified and/or could not be found for the javaType (com.zhenggq.afterclasswork.mybatis.ch01.vo.Author) : jdbcType (INTEGER) combination.
+	at org.apache.ibatis.builder.xml.XMLMapperBuilder.configurationElement(XMLMapperBuilder.java:120)
+	at org.apache.ibatis.builder.xml.XMLMapperBuilder.parse(XMLMapperBuilder.java:92)
+	at org.apache.ibatis.builder.xml.XMLConfigBuilder.mapperElement(XMLConfigBuilder.java:373)
+	at org.apache.ibatis.builder.xml.XMLConfigBuilder.parseConfiguration(XMLConfigBuilder.java:119)
+	... 25 more
+Caused by: java.lang.IllegalStateException: Type handler was null on parameter mapping for property &apos;authorId&apos;. It was either not specified and/or could not be found for the javaType (com.zhenggq.afterclasswork.mybatis.ch01.vo.Author) : jdbcType (INTEGER) combination.
+	at org.apache.ibatis.mapping.ParameterMapping$Builder.validate(ParameterMapping.java:119)
+	at org.apache.ibatis.mapping.ParameterMapping$Builder.build(ParameterMapping.java:104)
+	at org.apache.ibatis.builder.SqlSourceBuilder$ParameterMappingTokenHandler.buildParameterMapping(SqlSourceBuilder.java:123)
+	at org.apache.ibatis.builder.SqlSourceBuilder$ParameterMappingTokenHandler.handleToken(SqlSourceBuilder.java:67)
+	at org.apache.ibatis.parsing.GenericTokenParser.parse(GenericTokenParser.java:78)
+	at org.apache.ibatis.builder.SqlSourceBuilder.parse(SqlSourceBuilder.java:45)
+	at org.apache.ibatis.scripting.defaults.RawSqlSource.&lt;init&gt;(RawSqlSource.java:46)
+	at org.apache.ibatis.scripting.defaults.RawSqlSource.&lt;init&gt;(RawSqlSource.java:40)
+	at org.apache.ibatis.scripting.xmltags.XMLScriptBuilder.parseScriptNode(XMLScriptBuilder.java:72)
+	at org.apache.ibatis.scripting.xmltags.XMLLanguageDriver.createSqlSource(XMLLanguageDriver.java:44)
+	at org.apache.ibatis.builder.xml.XMLStatementBuilder.parseStatementNode(XMLStatementBuilder.java:94)
+	at org.apache.ibatis.builder.xml.XMLMapperBuilder.buildStatementFromContext(XMLMapperBuilder.java:135)
+	at org.apache.ibatis.builder.xml.XMLMapperBuilder.buildStatementFromContext(XMLMapperBuilder.java:128)
+	at org.apache.ibatis.builder.xml.XMLMapperBuilder.configurationElement(XMLMapperBuilder.java:118)
+	... 28 more
+</error>
+    <system-out>16:56:36,660 |-INFO in ch.qos.logback.classic.LoggerContext[mybatis-ch01] - Could NOT find resource [logback-test.xml]
+16:56:36,660 |-INFO in ch.qos.logback.classic.LoggerContext[mybatis-ch01] - Could NOT find resource [logback.groovy]
+16:56:36,660 |-INFO in ch.qos.logback.classic.LoggerContext[mybatis-ch01] - Found resource [logback.xml] at [file:/D:/Java/Share/afterclasswork/mybatis/mybatis-ch01/target/classes/logback.xml]
+16:56:36,701 |-INFO in ch.qos.logback.classic.joran.action.ConfigurationAction - debug attribute not set
+16:56:36,705 |-INFO in ch.qos.logback.classic.joran.action.ContextNameAction - Setting logger context name as [mybatis-ch01]
+16:56:36,707 |-INFO in ch.qos.logback.core.joran.action.TimestampAction - Using context birth as time reference.
+16:56:36,712 |-INFO in ch.qos.logback.core.joran.action.TimestampAction - Adding property to the context with key=&quot;bySecond&quot; and value=&quot;20180927&quot; to the LOCAL scope
+16:56:36,712 |-INFO in ch.qos.logback.core.joran.action.AppenderAction - About to instantiate appender of type [ch.qos.logback.core.ConsoleAppender]
+16:56:36,715 |-INFO in ch.qos.logback.core.joran.action.AppenderAction - Naming appender as [STDOUT]
+16:56:36,724 |-INFO in ch.qos.logback.core.joran.action.NestedComplexPropertyIA - Assuming default type [ch.qos.logback.classic.encoder.PatternLayoutEncoder] for [encoder] property
+16:56:36,747 |-INFO in ch.qos.logback.core.joran.action.AppenderAction - About to instantiate appender of type [ch.qos.logback.core.FileAppender]
+16:56:36,749 |-INFO in ch.qos.logback.core.joran.action.AppenderAction - Naming appender as [FILE]
+16:56:36,749 |-INFO in ch.qos.logback.core.joran.action.NestedComplexPropertyIA - Assuming default type [ch.qos.logback.classic.encoder.PatternLayoutEncoder] for [encoder] property
+16:56:36,751 |-INFO in ch.qos.logback.core.FileAppender[FILE] - File property is set to [./log/mybatis-ch01-20180927.log]
+16:56:36,752 |-INFO in ch.qos.logback.core.joran.action.AppenderAction - About to instantiate appender of type [ch.qos.logback.core.rolling.RollingFileAppender]
+16:56:36,753 |-INFO in ch.qos.logback.core.joran.action.AppenderAction - Naming appender as [ROLLINGFILE]
+16:56:36,771 |-INFO in c.q.l.core.rolling.TimeBasedRollingPolicy@31705400 - No compression will be used
+16:56:36,772 |-INFO in c.q.l.core.rolling.TimeBasedRollingPolicy@31705400 - Will use the pattern ./log/logFile.%d{yyyy-MM-dd}_%i.log for the active file
+16:56:36,774 |-INFO in ch.qos.logback.core.rolling.SizeAndTimeBasedFNATP@183967b - The date pattern is &apos;yyyy-MM-dd&apos; from file name pattern &apos;./log/logFile.%d{yyyy-MM-dd}_%i.log&apos;.
+16:56:36,774 |-INFO in ch.qos.logback.core.rolling.SizeAndTimeBasedFNATP@183967b - Roll-over at midnight.
+16:56:36,776 |-INFO in ch.qos.logback.core.rolling.SizeAndTimeBasedFNATP@183967b - Setting initial period to Thu Sep 27 16:56:36 CST 2018
+16:56:36,776 |-WARN in ch.qos.logback.core.rolling.SizeAndTimeBasedFNATP@183967b - SizeAndTimeBasedFNATP is deprecated. Use SizeAndTimeBasedRollingPolicy instead
+16:56:36,776 |-WARN in ch.qos.logback.core.rolling.SizeAndTimeBasedFNATP@183967b - For more information see http://logback.qos.ch/manual/appenders.html#SizeAndTimeBasedRollingPolicy
+16:56:36,778 |-INFO in ch.qos.logback.core.joran.action.NestedComplexPropertyIA - Assuming default type [ch.qos.logback.classic.encoder.PatternLayoutEncoder] for [encoder] property
+16:56:36,779 |-INFO in ch.qos.logback.core.rolling.RollingFileAppender[ROLLINGFILE] - Active log file name: ./log/logFile.2018-09-27_0.log
+16:56:36,779 |-INFO in ch.qos.logback.core.rolling.RollingFileAppender[ROLLINGFILE] - File property is set to [null]
+16:56:36,779 |-INFO in ch.qos.logback.classic.joran.action.LoggerAction - Setting level of logger [com.zhenggq.afterclasswork.mybatis.ch01] to DEBUG
+16:56:36,779 |-INFO in ch.qos.logback.classic.joran.action.LoggerAction - Setting additivity of logger [com.zhenggq.afterclasswork.mybatis.ch01] to false
+16:56:36,779 |-INFO in ch.qos.logback.core.joran.action.AppenderRefAction - Attaching appender named [STDOUT] to Logger[com.zhenggq.afterclasswork.mybatis.ch01]
+16:56:36,780 |-INFO in ch.qos.logback.core.joran.action.AppenderRefAction - Attaching appender named [ROLLINGFILE] to Logger[com.zhenggq.afterclasswork.mybatis.ch01]
+16:56:36,780 |-INFO in ch.qos.logback.classic.joran.action.RootLoggerAction - Setting level of ROOT logger to DEBUG
+16:56:36,780 |-INFO in ch.qos.logback.core.joran.action.AppenderRefAction - Attaching appender named [STDOUT] to Logger[ROOT]
+16:56:36,780 |-INFO in ch.qos.logback.classic.joran.action.ConfigurationAction - End of configuration.
+16:56:36,781 |-INFO in ch.qos.logback.classic.joran.JoranConfigurator@c273d3 - Registering current configuration as safe fallback point
+
+2018-09-27 16:56:36,788 [main] &amp;#27;[39m&amp;#27;[0;39mDEBUG &amp;#27;[36m&amp;#27;[0;39morg.apache.ibatis.logging.LogFactory.setImplementation - Logging initialized using &apos;class org.apache.ibatis.logging.slf4j.Slf4jImpl&apos; adapter.
+2018-09-27 16:56:36,886 [main] &amp;#27;[39m&amp;#27;[0;39mDEBUG &amp;#27;[36m&amp;#27;[0;39morg.apache.ibatis.datasource.pooled.PooledDataSource.forceCloseAll - PooledDataSource forcefully closed/removed all connections.
+2018-09-27 16:56:36,887 [main] &amp;#27;[39m&amp;#27;[0;39mDEBUG &amp;#27;[36m&amp;#27;[0;39morg.apache.ibatis.datasource.pooled.PooledDataSource.forceCloseAll - PooledDataSource forcefully closed/removed all connections.
+2018-09-27 16:56:36,887 [main] &amp;#27;[39m&amp;#27;[0;39mDEBUG &amp;#27;[36m&amp;#27;[0;39morg.apache.ibatis.datasource.pooled.PooledDataSource.forceCloseAll - PooledDataSource forcefully closed/removed all connections.
+2018-09-27 16:56:36,887 [main] &amp;#27;[39m&amp;#27;[0;39mDEBUG &amp;#27;[36m&amp;#27;[0;39morg.apache.ibatis.datasource.pooled.PooledDataSource.forceCloseAll - PooledDataSource forcefully closed/removed all connections.
+</system-out>
+  </testcase>
+</testsuite>

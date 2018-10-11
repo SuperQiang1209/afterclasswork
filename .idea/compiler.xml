@@ -15,7 +15,12 @@
         <module name="pattern-singleton" />
         <module name="pattern-strategy" />
         <module name="pattern-template" />
+        <module name="zgq-mybatis" />
+        <module name="zgq-mybatis-ex" />
       </profile>
     </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="source-analyze" target="1.5" />
+    </bytecodeTargetLevel>
   </component>
 </project>
