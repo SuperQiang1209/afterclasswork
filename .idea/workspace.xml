@@ -3,40 +3,10 @@
   <component name="ChangeListManager">
     <list default="true" id="7ac17d6f-9c02-460c-bb60-20d637511ac7" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/afterclasswork.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/design-pattern/pattern-proxy/src/main/java/com/zhenggq/afterclasswork/pattern/proxy/GamePlayerProxy.java" beforeDir="false" afterPath="$PROJECT_DIR$/design-pattern/pattern-proxy/src/main/java/com/zhenggq/afterclasswork/pattern/proxy/GamePlayerProxy.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/mybatis-generator/dataSource.properties" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/mybatis-generator/dataSource.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/mybatis-generator/mybatis/generatorConfig.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/mybatis-generator/mybatis/generatorConfig.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mybatis/mybatis-generator/src/main/resources/dataSource.properties" beforeDir="false" afterPath="$PROJECT_DIR$/mybatis/mybatis-generator/src/main/resources/dataSource.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mybatis/mybatis-generator/src/main/resources/mybatis/generatorConfig.xml" beforeDir="false" afterPath="$PROJECT_DIR$/mybatis/mybatis-generator/src/main/resources/mybatis/generatorConfig.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/source-analyze/mybatis/mybatis-ch01/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/mybatis/mybatis-ch01/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/source-analyze/mybatis/mybatis-ch01/src/main/java/com/zhenggq/afterclasswork/mybatis/ch01/Ch01Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/mybatis/mybatis-ch01/src/main/java/com/zhenggq/afterclasswork/mybatis/ch01/Ch01Test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/source-analyze/mybatis/mybatis-ch01/src/main/java/com/zhenggq/afterclasswork/mybatis/ch01/MyBatisConfiguration.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source-analyze/mybatis/mybatis-ch01/src/main/java/com/zhenggq/afterclasswork/mybatis/ch01/dao/JsonTestMapper.java" beforeDir="false" afterPath="$PROJECT_DIR$/mybatis/mybatis-ch01/src/main/java/com/zhenggq/afterclasswork/mybatis/ch01/dao/JsonTestMapper.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/source-analyze/mybatis/mybatis-ch01/src/main/java/com/zhenggq/afterclasswork/mybatis/ch01/example/JsonTestExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/mybatis/mybatis-ch01/src/main/java/com/zhenggq/afterclasswork/mybatis/ch01/example/JsonTestExample.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/source-analyze/mybatis/mybatis-ch01/src/main/java/com/zhenggq/afterclasswork/mybatis/ch01/vo/JsonTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/mybatis/mybatis-ch01/src/main/java/com/zhenggq/afterclasswork/mybatis/ch01/vo/JsonTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/source-analyze/mybatis/mybatis-ch01/src/main/resources/configuration.xml" beforeDir="false" afterPath="$PROJECT_DIR$/mybatis/mybatis-ch01/src/main/resources/mybatis-config.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/source-analyze/mybatis/mybatis-ch01/src/main/resources/mapper/JsonTestMapper.xml" beforeDir="false" afterPath="$PROJECT_DIR$/mybatis/mybatis-ch01/src/main/resources/mapper/JsonTestMapper.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/source-analyze/mybatis/mybatis-generator/bin/run-install.bat" beforeDir="false" afterPath="$PROJECT_DIR$/mybatis/mybatis-generator/bin/run-install.bat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/source-analyze/mybatis/mybatis-generator/bin/run-mybatis-generator.bat" beforeDir="false" afterPath="$PROJECT_DIR$/mybatis/mybatis-generator/bin/run-mybatis-generator.bat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/source-analyze/mybatis/mybatis-generator/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/mybatis/mybatis-generator/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/source-analyze/mybatis/mybatis-generator/src/main/java/org/nbsframework/system/dao/JsonTestMapper.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source-analyze/mybatis/mybatis-generator/src/main/java/org/nbsframework/system/mybatis/JsonTestMapper.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source-analyze/mybatis/mybatis-generator/src/main/java/org/nbsframework/system/vo/JsonTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source-analyze/mybatis/mybatis-generator/src/main/java/org/nbsframework/system/vo/JsonTestExample.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source-analyze/mybatis/mybatis-generator/src/main/resources/dataSource.properties" beforeDir="false" afterPath="$PROJECT_DIR$/mybatis/mybatis-generator/src/main/resources/dataSource.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/source-analyze/mybatis/mybatis-generator/src/main/resources/mybatis/generatorConfig.xml" beforeDir="false" afterPath="$PROJECT_DIR$/mybatis/mybatis-generator/src/main/resources/mybatis/generatorConfig.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/source-analyze/mybatis/mybatis-generator/src/test/java/com/test/Abc.java" beforeDir="false" afterPath="$PROJECT_DIR$/mybatis/mybatis-generator/src/test/java/com/test/Abc.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/source-analyze/mybatis/mybatis-generator/src/test/java/com/test/AbcTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/mybatis/mybatis-generator/src/test/java/com/test/AbcTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/source-analyze/mybatis/mybatis-generator/src/test/java/com/test/Cba.java" beforeDir="false" afterPath="$PROJECT_DIR$/mybatis/mybatis-generator/src/test/java/com/test/Cba.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/source-analyze/mybatis/mybatis-generator/target/classes/dataSource.properties" beforeDir="false" afterPath="$PROJECT_DIR$/mybatis/mybatis-generator/target/classes/dataSource.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/source-analyze/mybatis/mybatis-generator/target/classes/mybatis/generatorConfig.xml" beforeDir="false" afterPath="$PROJECT_DIR$/mybatis/mybatis-generator/target/classes/mybatis/generatorConfig.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/source-analyze/mybatis/mybatis-generator/target/maven-archiver/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/mybatis/mybatis-generator/target/maven-archiver/pom.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/source-analyze/mybatis/mybatis-generator/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/mybatis/mybatis-generator/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/source-analyze/mybatis/mybatis-generator/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/mybatis/mybatis-generator/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/source-analyze/mybatis/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/mybatis/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/source-analyze/pom.xml" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -57,6 +27,12 @@
     <ignored path="$PROJECT_DIR$/mybatis/target/" />
     <ignored path="$PROJECT_DIR$/mybatis/zgq-mybatis/target/" />
     <ignored path="$PROJECT_DIR$/mybatis/zgq-mybatis-ex/target/" />
+    <ignored path="$PROJECT_DIR$/spring5-source/target/" />
+    <ignored path="$PROJECT_DIR$/spring5-source/ch02/target/" />
+    <ignored path="$PROJECT_DIR$/03-distributed/target/" />
+    <ignored path="$PROJECT_DIR$/03-distributed/rmi-server/target/" />
+    <ignored path="$PROJECT_DIR$/03-distributed/rpc-server/target/" />
+    <ignored path="$PROJECT_DIR$/03-distributed/rpc-client/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -84,69 +60,75 @@
     <session id="-947881373">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="23" />
+          <entry key="project.closed" value="30" />
           <entry key="project.open.time.1" value="2" />
           <entry key="project.open.time.11" value="1" />
           <entry key="project.open.time.14" value="1" />
           <entry key="project.open.time.18" value="1" />
-          <entry key="project.open.time.2" value="3" />
+          <entry key="project.open.time.2" value="4" />
           <entry key="project.open.time.20" value="1" />
-          <entry key="project.open.time.21" value="1" />
+          <entry key="project.open.time.21" value="2" />
+          <entry key="project.open.time.23" value="1" />
           <entry key="project.open.time.24" value="2" />
-          <entry key="project.open.time.25" value="2" />
+          <entry key="project.open.time.25" value="5" />
+          <entry key="project.open.time.26" value="1" />
           <entry key="project.open.time.27" value="1" />
           <entry key="project.open.time.28" value="4" />
-          <entry key="project.open.time.3" value="1" />
+          <entry key="project.open.time.3" value="2" />
           <entry key="project.open.time.30" value="1" />
           <entry key="project.open.time.31" value="1" />
           <entry key="project.open.time.33" value="1" />
           <entry key="project.open.time.35" value="1" />
           <entry key="project.open.time.36" value="1" />
-          <entry key="project.opened" value="25" />
+          <entry key="project.opened" value="33" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="BaseExecutor" value="1" />
-          <entry key="class" value="10" />
+          <entry key="class" value="15" />
           <entry key="config" value="1" />
           <entry key="configuration" value="1" />
           <entry key="dtd" value="6" />
           <entry key="fxml" value="1" />
-          <entry key="java" value="470" />
-          <entry key="properties" value="11" />
+          <entry key="java" value="598" />
+          <entry key="png" value="1" />
+          <entry key="properties" value="12" />
           <entry key="tld" value="1" />
           <entry key="vmoptions" value="2" />
-          <entry key="xml" value="81" />
+          <entry key="xml" value="94" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="CLASS" value="10" />
+          <entry key="CLASS" value="15" />
           <entry key="DTD" value="6" />
-          <entry key="JAVA" value="470" />
+          <entry key="Image" value="1" />
+          <entry key="JAVA" value="598" />
           <entry key="PLAIN_TEXT" value="2" />
-          <entry key="Properties" value="11" />
+          <entry key="Properties" value="12" />
           <entry key="UML" value="1" />
-          <entry key="XML" value="85" />
+          <entry key="XML" value="98" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="dummy" value="18" />
-          <entry key="java" value="11630" />
-          <entry key="properties" value="106" />
+          <entry key="ft" value="9" />
+          <entry key="java" value="15050" />
+          <entry key="properties" value="151" />
           <entry key="vmoptions" value="12" />
-          <entry key="xml" value="601" />
+          <entry key="xml" value="701" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="11630" />
+          <entry key="JAVA" value="15050" />
           <entry key="PLAIN_TEXT" value="30" />
-          <entry key="Properties" value="106" />
+          <entry key="Properties" value="151" />
           <entry key="SQL" value="2" />
-          <entry key="XML" value="599" />
+          <entry key="VTL" value="9" />
+          <entry key="XML" value="699" />
         </counts>
       </usages-collector>
     </session>
@@ -156,60 +138,59 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
-      <file pinned="false" current-in-tab="true">
-        <entry file="jar://C:/Program Files (x86)/Java/jdk1.8.0_161/src.zip!/java/util/HashMap.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="175">
-              <caret line="629" column="32" lean-forward="true" selection-start-line="629" selection-start-column="32" selection-end-line="629" selection-end-column="32" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="jar://C:/Program Files (x86)/Java/jdk1.8.0_161/jre/lib/rt.jar!/sun/misc/URLClassPath.class">
+        <entry file="file://$PROJECT_DIR$/03-distributed/rmi-server/src/main/java/com/zhenggq/rimserver/impl/ServerDemo.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="260">
-              <caret line="169" selection-start-line="169" selection-end-line="169" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/mybatis/mybatis-generator/src/test/java/com/test/Abc.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="312">
-              <caret line="13" column="5" lean-forward="true" selection-start-line="13" selection-start-column="5" selection-end-line="13" selection-end-column="5" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/mybatis/mybatis-generator/src/test/java/com/test/AbcTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="312">
-              <caret line="64" column="38" lean-forward="true" selection-start-line="64" selection-start-column="38" selection-end-line="64" selection-end-column="38" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/mybatis/mybatis-generator/src/test/java/com/test/StaticTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="374">
-              <caret line="54" lean-forward="true" selection-start-line="54" selection-end-line="54" />
+            <state relative-caret-position="272">
+              <caret line="24" column="33" lean-forward="true" selection-start-line="24" selection-start-column="33" selection-end-line="24" selection-end-column="33" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#801#816#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/mybatis/mybatis-generator/src/test/java/com/test/Cba.java">
+        <entry file="jar://C:/Program Files (x86)/Java/jdk1.8.0_161/src.zip!/java/rmi/registry/LocateRegistry.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="192">
-              <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+            <state relative-caret-position="206">
+              <caret line="202" column="24" selection-start-line="202" selection-start-column="24" selection-end-line="202" selection-end-column="24" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar://C:/Program Files (x86)/Java/jdk1.8.0_161/jre/lib/rt.jar!/sun/rmi/registry/RegistryImpl.class">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="54">
+              <caret line="113" lean-forward="true" selection-start-line="113" selection-end-line="113" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/03-distributed/rmi-server/src/test/java/TestMethod.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="443">
+              <caret line="26" column="42" selection-start-line="26" selection-start-column="42" selection-end-line="26" selection-end-column="42" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar://C:/Program Files (x86)/Java/jdk1.8.0_161/jre/lib/rt.jar!/sun/rmi/server/UnicastServerRef.class">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="130">
+              <caret line="101" column="18" selection-start-line="101" selection-start-column="18" selection-end-line="101" selection-end-column="18" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar://C:/Program Files (x86)/Java/jdk1.8.0_161/src.zip!/java/rmi/Naming.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-41">
+              <caret line="71" column="19" selection-start-line="71" selection-start-column="19" selection-end-line="71" selection-end-column="19" />
             </state>
           </provider>
         </entry>
@@ -223,8 +204,8 @@
         <option value="Enum" />
         <option value="Tag Library Descriptor" />
         <option value="FxmlFile" />
-        <option value="Interface" />
         <option value="AnnotationType" />
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -256,6 +237,10 @@
       <find>selectone</find>
       <find>addMapper</find>
       <find>getMapper</find>
+      <find>Example_Where_Clause</find>
+      <find>insert</find>
+      <find>Update_By_Example_Where_Clause</find>
+      <find>update</find>
     </findStrings>
     <replaceStrings>
       <replace>com.zhenggq.afterclasswork.mybatis.ch01.example.JsonTestExample</replace>
@@ -272,51 +257,24 @@
     </option>
   </component>
   <component name="HighlightingSettingsPerFile">
-    <setting file="file://$PROJECT_DIR$/design-pattern/pattern-proxy/src/main/java/com/zhenggq/afterclasswork/pattern/proxy/GamePlayerProxy.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/mybatis/mybatis-ch01/src/main/java/com/zhenggq/afterclasswork/mybatis/ch01/typehandler/MyTypeHandler.java" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/mybatis/mybatis-ch01/src/main/resources/mapper/BlogMapper.xml" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/mybatis/mybatis-generator/src/test/java/com/test/StaticTest.java" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/mybatis/zgq-mybatis/src/main/java/com/zhenggq/afterclasswork/mybatis/v1/ZGQMapperProxy.java" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/mybatis/zgq-mybatis/src/main/java/com/zhenggq/afterclasswork/mybatis/v1/ZGQConfiguration.java" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/mybatis/zgq-mybatis-ex/src/main/java/com/zhenggq/afterclasswork/mybatis/v2/ZGQStatementHandler.java" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/mybatis/zgq-mybatis/src/main/java/com/zhenggq/afterclasswork/mybatis/v1/ZGQSqlSession.java" root0="SKIP_INSPECTION" />
-    <setting file="file://$PROJECT_DIR$/mybatis/mybatis-ch01/src/main/java/com/zhenggq/afterclasswork/mybatis/ch01/dao/BlogMapper.java" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/mybatis/zgq-mybatis/src/main/java/com/zhenggq/afterclasswork/mybatis/v1/Entry.java" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/mybatis/mybatis-ch01/src/test/java/com/zhenggq/afterclasswork/mybatis/ch01/test/BlogMapperTest.java" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/mybatis/mybatis-ch01/src/main/resources/mybatis-config.xml" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/mybatis/mybatis-generator/src/main/resources/mybatis/generatorConfig.xml" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/design-pattern/pattern-proxy/src/main/java/com/zhenggq/afterclasswork/pattern/proxy/GamePlayerProxy.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/03-distributed/rmi-server/src/main/java/com/zhenggq/rimserver/impl/HelloServiceImpl.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/mybatis/mybatis-ch01/src/main/java/com/zhenggq/afterclasswork/mybatis/ch01/dao/BlogMapper.java" root0="SKIP_INSPECTION" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/mybatis/pom.xml" />
-        <option value="$PROJECT_DIR$/mybatis/mybatis-generator/src/test/java/com/test/ArrayListTest.java" />
-        <option value="$PROJECT_DIR$/mybatis/mybatis-ch01/src/main/java/com/zhenggq/afterclasswork/mybatis/ch01/MyBatisConfiguration.java" />
-        <option value="$PROJECT_DIR$/mybatis/mybatis-ch01/src/main/resources/mapper/JsonTestMapper.xml" />
-        <option value="$PROJECT_DIR$/mybatis/mybatis-ch01/src/main/java/com/zhenggq/afterclasswork/mybatis/ch01/Ch01Test.java" />
-        <option value="$PROJECT_DIR$/mybatis/mybatis-generator/src/main/resources/mybatis/generatorConfig.xml" />
-        <option value="$PROJECT_DIR$/mybatis/mybatis-ch01/src/main/java/com/zhenggq/afterclasswork/mybatis/ch01/example/PostsExample.java" />
-        <option value="$PROJECT_DIR$/mybatis/mybatis-ch01/src/main/java/com/zhenggq/afterclasswork/mybatis/ch01/vo/Blog.java" />
-        <option value="$PROJECT_DIR$/mybatis/mybatis-ch01/pom.xml" />
-        <option value="$PROJECT_DIR$/mybatis/mybatis-ch01/src/main/resources/logback.xml" />
-        <option value="$PROJECT_DIR$/mybatis/mybatis-ch01/src/main/resources/mapper/BlogMapper.xml" />
-        <option value="$PROJECT_DIR$/mybatis/mybatis-generator/src/main/resources/dataSource.properties" />
-        <option value="$PROJECT_DIR$/mybatis/mybatis-ch01/src/main/java/com/zhenggq/afterclasswork/mybatis/ch01/example/AuthorExample.java" />
-        <option value="$PROJECT_DIR$/mybatis/mybatis-ch01/src/main/java/com/zhenggq/afterclasswork/mybatis/ch01/dao/AuthorMapper.java" />
-        <option value="$PROJECT_DIR$/mybatis/mybatis-ch01/src/main/java/com/zhenggq/afterclasswork/mybatis/ch01/dao/PostsMapper.java" />
-        <option value="$PROJECT_DIR$/design-pattern/pattern-proxy/src/main/java/com/zhenggq/afterclasswork/pattern/proxy/GamePlayerProxy.java" />
-        <option value="$PROJECT_DIR$/mybatis/mybatis-ch01/src/test/java/com/zhenggq/afterclasswork/mybatis/ch01/test/Test.java" />
-        <option value="$PROJECT_DIR$/mybatis/mybatis-ch01/src/main/java/com/zhenggq/afterclasswork/mybatis/ch01/dao/BlogMapper.java" />
-        <option value="$PROJECT_DIR$/mybatis/mybatis-ch01/src/main/java/com/zhenggq/afterclasswork/mybatis/ch01/plugin/ExamplePlugin.java" />
-        <option value="$PROJECT_DIR$/mybatis/mybatis-ch01/src/main/resources/mybatis-config.xml" />
-        <option value="$PROJECT_DIR$/mybatis/mybatis-ch01/src/test/java/com/zhenggq/afterclasswork/mybatis/ch01/test/BlogMapperTest.java" />
-        <option value="$APPLICATION_CONFIG_DIR$/idea64.exe.vmoptions" />
-        <option value="$PROJECT_DIR$/mybatis/zgq-mybatis/src/main/java/com/zhenggq/afterclasswork/mybatis/own/DefaultSqlSession.java" />
-        <option value="$PROJECT_DIR$/mybatis/zgq-mybatis/src/main/java/com/zhenggq/afterclasswork/mybatis/own/SqlSession.java" />
-        <option value="$PROJECT_DIR$/mybatis/zgq-mybatis/src/main/java/com/zhenggq/afterclasswork/mybatis/v1/SqlSession.java" />
-        <option value="$PROJECT_DIR$/mybatis/zgq-mybatis/src/main/java/com/zhenggq/afterclasswork/mybatis/v1/DefaultSqlSession.java" />
-        <option value="$PROJECT_DIR$/mybatis/zgq-mybatis/src/main/java/com/zhenggq/afterclasswork/mybatis/v1/ZGQSqlSession.java" />
-        <option value="$PROJECT_DIR$/mybatis/zgq-mybatis/src/main/java/com/zhenggq/afterclasswork/mybatis/v1/ZGQExecutor.java" />
-        <option value="$PROJECT_DIR$/mybatis/zgq-mybatis/src/main/java/com/zhenggq/afterclasswork/mybatis/v1/ZGQDefaultSqlSession.java" />
         <option value="$PROJECT_DIR$/mybatis/zgq-mybatis/src/main/java/com/zhenggq/afterclasswork/mybatis/v1/ZGQMapperProxy.java" />
         <option value="$PROJECT_DIR$/mybatis/zgq-mybatis/pom.xml" />
         <option value="$PROJECT_DIR$/mybatis/zgq-mybatis/src/main/java/com/zhenggq/afterclasswork/mybatis/v1/ZGQSimpleExecutor.java" />
@@ -339,6 +297,35 @@
         <option value="$PROJECT_DIR$/mybatis/zgq-mybatis-ex/src/main/java/com/zhenggq/afterclasswork/mybatis/v2/ZGQStatementHandler.java" />
         <option value="$PROJECT_DIR$/mybatis/mybatis-generator/src/test/java/com/test/AbcTest.java" />
         <option value="$PROJECT_DIR$/mybatis/mybatis-generator/src/test/java/com/test/StaticTest.java" />
+        <option value="$PROJECT_DIR$/mybatis/mybatis-ch01/src/main/java/com/zhenggq/afterclasswork/mybatis/ch01/typehandler/MyTypeHandler.java" />
+        <option value="$PROJECT_DIR$/spring5-source/pom.xml" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/spring5-source/ch02/pom.xml" />
+        <option value="$PROJECT_DIR$/spring5-source/ch02/src/main/resources/application-context.xml" />
+        <option value="$PROJECT_DIR$/spring5-source/ch02/src/main/java/com/zhenggq/afterclasswork/spring5source/ch02/XmlBeanFactoryTest.java" />
+        <option value="$PROJECT_DIR$/mybatis/mybatis-generator/src/main/resources/dataSource.properties" />
+        <option value="$PROJECT_DIR$/mybatis/mybatis-generator/src/main/resources/mybatis/generatorConfig.xml" />
+        <option value="$PROJECT_DIR$/03-distributed/rmi-server/src/main/java/com/zhenggq/rimserver/impl/HelloServiceImpl.java" />
+        <option value="$PROJECT_DIR$/03-distributed/rmi-server/src/main/java/com/zhenggq/rimserver/IHelloService.java" />
+        <option value="$PROJECT_DIR$/03-distributed/rmi-server/src/main/java/com/zhenggq/rimserver/ServerDemo.java" />
+        <option value="$PROJECT_DIR$/03-distributed/rmi-server/src/main/java/com/zhenggq/rimserver/impl/ServerDemo.java" />
+        <option value="$PROJECT_DIR$/03-distributed/rmi-server/src/main/java/com/zhenggq/rimserver/Client/ClientDemo.java" />
+        <option value="$PROJECT_DIR$/03-distributed/rpc-server/src/main/java/com/zhenggq/rpcdemo/TcpEndpoint.java" />
+        <option value="$PROJECT_DIR$/03-distributed/rpc-server/src/main/java/com/zhenggq/rpcdemo/IHelloWord.java" />
+        <option value="$PROJECT_DIR$/03-distributed/rpc-server/src/main/java/com/zhenggq/rpcdemo/RequestData.java" />
+        <option value="$PROJECT_DIR$/03-distributed/rpc-server/src/main/java/com/zhenggq/rpcdemo/HelloWordImpl.java" />
+        <option value="$PROJECT_DIR$/03-distributed/rpc-client/src/main/java/IHelloWord.java" />
+        <option value="$PROJECT_DIR$/03-distributed/rpc-client/src/main/java/com/zhenggq/rpcclientdemo/IHelloWord.java" />
+        <option value="$PROJECT_DIR$/03-distributed/rpc-client/src/main/java/com/zhenggq/rpcclientdemo/ClientProxy.java" />
+        <option value="$PROJECT_DIR$/03-distributed/rpc-client/src/main/java/com/zhenggq/rpcclientdemo/RequestData.java" />
+        <option value="$PROJECT_DIR$/03-distributed/rpc-client/src/main/java/com/zhenggq/rpcclientdemo/RemoteInvocationHandler.java" />
+        <option value="$PROJECT_DIR$/03-distributed/rpc-server/src/main/java/com/zhenggq/rpcdemo/ServiceDemo.java" />
+        <option value="$PROJECT_DIR$/03-distributed/rpc-server/src/main/java/com/zhenggq/rpcdemo/RpcServer.java" />
+        <option value="$PROJECT_DIR$/03-distributed/rpc-client/src/main/java/com/zhenggq/rpcclientdemo/RpcClient.java" />
+        <option value="$PROJECT_DIR$/03-distributed/rpc-client/src/main/java/com/zhenggq/rpcclientdemo/TcpEndpoint.java" />
+        <option value="$PROJECT_DIR$/03-distributed/rpc-client/src/main/java/com/zhenggq/rpcclientdemo/ClientDemo.java" />
+        <option value="$PROJECT_DIR$/03-distributed/rpc-server/src/main/java/com/zhenggq/rpcdemo/ProcessorHandler.java" />
+        <option value="$PROJECT_DIR$/03-distributed/rmi-server/src/test/java/TestMethod.java" />
       </list>
     </option>
   </component>
@@ -405,19 +392,64 @@
         <expanded-state>
           <State />
           <State>
+            <id>AccessibilityLintAndroid</id>
+          </State>
+          <State>
+            <id>Ali-Check</id>
+          </State>
+          <State>
             <id>Android</id>
+          </State>
+          <State>
+            <id>Application Servers</id>
           </State>
           <State>
             <id>CorrectnessLintAndroid</id>
           </State>
           <State>
+            <id>Google Web Toolkit</id>
+          </State>
+          <State>
+            <id>Hibernate</id>
+          </State>
+          <State>
+            <id>JPA</id>
+          </State>
+          <State>
+            <id>JSP</id>
+          </State>
+          <State>
+            <id>Java</id>
+          </State>
+          <State>
+            <id>Java EE</id>
+          </State>
+          <State>
+            <id>JavadocJava</id>
+          </State>
+          <State>
             <id>LintAndroid</id>
+          </State>
+          <State>
+            <id>Maven</id>
           </State>
           <State>
             <id>MessagesCorrectnessLintAndroid</id>
           </State>
           <State>
+            <id>Plugin DevKit</id>
+          </State>
+          <State>
+            <id>Probable bugsJava</id>
+          </State>
+          <State>
             <id>Spelling</id>
+          </State>
+          <State>
+            <id>Spring</id>
+          </State>
+          <State>
+            <id>Spring DataSpring</id>
           </State>
         </expanded-state>
         <selected-state>
@@ -437,6 +469,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -447,77 +480,111 @@
             <path>
               <item name="afterclasswork" type="b2602c69:ProjectViewProjectNode" />
               <item name="afterclasswork" type="462c0819:PsiDirectoryNode" />
-              <item name="mybatis" type="462c0819:PsiDirectoryNode" />
+              <item name="03-distributed" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="afterclasswork" type="b2602c69:ProjectViewProjectNode" />
               <item name="afterclasswork" type="462c0819:PsiDirectoryNode" />
-              <item name="mybatis" type="462c0819:PsiDirectoryNode" />
-              <item name="mybatis-ch01" type="462c0819:PsiDirectoryNode" />
+              <item name="03-distributed" type="462c0819:PsiDirectoryNode" />
+              <item name="rmi-server" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="afterclasswork" type="b2602c69:ProjectViewProjectNode" />
               <item name="afterclasswork" type="462c0819:PsiDirectoryNode" />
-              <item name="mybatis" type="462c0819:PsiDirectoryNode" />
-              <item name="mybatis-generator" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="afterclasswork" type="b2602c69:ProjectViewProjectNode" />
-              <item name="afterclasswork" type="462c0819:PsiDirectoryNode" />
-              <item name="mybatis" type="462c0819:PsiDirectoryNode" />
-              <item name="mybatis-generator" type="462c0819:PsiDirectoryNode" />
+              <item name="03-distributed" type="462c0819:PsiDirectoryNode" />
+              <item name="rmi-server" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="afterclasswork" type="b2602c69:ProjectViewProjectNode" />
               <item name="afterclasswork" type="462c0819:PsiDirectoryNode" />
-              <item name="mybatis" type="462c0819:PsiDirectoryNode" />
-              <item name="mybatis-generator" type="462c0819:PsiDirectoryNode" />
+              <item name="03-distributed" type="462c0819:PsiDirectoryNode" />
+              <item name="rmi-server" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="afterclasswork" type="b2602c69:ProjectViewProjectNode" />
               <item name="afterclasswork" type="462c0819:PsiDirectoryNode" />
-              <item name="mybatis" type="462c0819:PsiDirectoryNode" />
-              <item name="mybatis-generator" type="462c0819:PsiDirectoryNode" />
+              <item name="03-distributed" type="462c0819:PsiDirectoryNode" />
+              <item name="rmi-server" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="afterclasswork" type="b2602c69:ProjectViewProjectNode" />
+              <item name="afterclasswork" type="462c0819:PsiDirectoryNode" />
+              <item name="03-distributed" type="462c0819:PsiDirectoryNode" />
+              <item name="rmi-server" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="afterclasswork" type="b2602c69:ProjectViewProjectNode" />
+              <item name="afterclasswork" type="462c0819:PsiDirectoryNode" />
+              <item name="03-distributed" type="462c0819:PsiDirectoryNode" />
+              <item name="rpc-server" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="afterclasswork" type="b2602c69:ProjectViewProjectNode" />
+              <item name="afterclasswork" type="462c0819:PsiDirectoryNode" />
+              <item name="03-distributed" type="462c0819:PsiDirectoryNode" />
+              <item name="rpc-server" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="afterclasswork" type="b2602c69:ProjectViewProjectNode" />
+              <item name="afterclasswork" type="462c0819:PsiDirectoryNode" />
+              <item name="03-distributed" type="462c0819:PsiDirectoryNode" />
+              <item name="rpc-server" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="afterclasswork" type="b2602c69:ProjectViewProjectNode" />
+              <item name="afterclasswork" type="462c0819:PsiDirectoryNode" />
+              <item name="03-distributed" type="462c0819:PsiDirectoryNode" />
+              <item name="rpc-server" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="afterclasswork" type="b2602c69:ProjectViewProjectNode" />
               <item name="afterclasswork" type="462c0819:PsiDirectoryNode" />
-              <item name="mybatis" type="462c0819:PsiDirectoryNode" />
-              <item name="mybatis-generator" type="462c0819:PsiDirectoryNode" />
+              <item name="03-distributed" type="462c0819:PsiDirectoryNode" />
+              <item name="rpc-server" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="rpcdemo" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
       <pane id="PackagesPane" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="SearchEverywhereHistoryKey" value="HashMap&#9;PSI&#9;JAVA://java.util.HashMap&#10;Mapper&#9;FILE&#9;jar://D:/Java/mvnRespo/org/mybatis/mybatis/3.4.6/mybatis-3.4.6-sources.jar!/org/apache/ibatis/binding/MapperProxyFactory.java&#10;defaultsqlse&#9;FILE&#9;jar://D:/Java/mvnRespo/org/mybatis/mybatis/3.4.6/mybatis-3.4.6-sources.jar!/org/apache/ibatis/session/defaults/DefaultSqlSession.java&#10;sqlsession&#9;FILE&#9;jar://D:/Java/mvnRespo/org/mybatis/mybatis/3.4.6/mybatis-3.4.6-sources.jar!/org/apache/ibatis/session/SqlSession.java&#10;resulthandler&#9;FILE&#9;jar://D:/Java/mvnRespo/org/mybatis/mybatis/3.4.6/mybatis-3.4.6.jar!/org/apache/ibatis/session/ResultHandler.class&#10;Sqlsession&#9;FILE&#9;jar://D:/Java/mvnRespo/org/mybatis/mybatis/3.4.6/mybatis-3.4.6-sources.jar!/org/apache/ibatis/session/SqlSession.java&#10;parametermap&#9;FILE&#9;jar://D:/Java/mvnRespo/org/mybatis/mybatis/3.4.6/mybatis-3.4.6-sources.jar!/org/apache/ibatis/mapping/ParameterMapping.java&#10;mapperproxy&#9;FILE&#9;jar://D:/Java/mvnRespo/org/mybatis/mybatis/3.4.6/mybatis-3.4.6-sources.jar!/org/apache/ibatis/binding/MapperProxy.java&#10;config&#9;FILE&#9;jar://D:/Java/mvnRespo/org/mybatis/mybatis/3.4.6/mybatis-3.4.6-sources.jar!/org/apache/ibatis/session/Configuration.java&#10;defaultsql&#9;FILE&#9;jar://D:/Java/mvnRespo/org/mybatis/mybatis/3.4.6/mybatis-3.4.6-sources.jar!/org/apache/ibatis/session/defaults/DefaultSqlSession.java&#10;defaultsqll&#9;null&#9;null&#10;configuration&#9;FILE&#9;jar://D:/Java/mvnRespo/org/mybatis/mybatis/3.4.6/mybatis-3.4.6-sources.jar!/org/apache/ibatis/session/Configuration.java&#10;Mapperproxy&#9;FILE&#9;jar://D:/Java/mvnRespo/org/mybatis/mybatis/3.4.6/mybatis-3.4.6-sources.jar!/org/apache/ibatis/binding/MapperProxy.java&#10;mapperregistry&#9;PSI&#9;JAVA://org.apache.ibatis.binding.MapperRegistry&#10;mapperregi&#9;FILE&#9;jar://D:/Java/mvnRespo/org/mybatis/mybatis/3.4.6/mybatis-3.4.6.jar!/org/apache/ibatis/binding/MapperRegistry.class&#10;mapperprox&#9;FILE&#9;jar://D:/Java/mvnRespo/org/mybatis/mybatis/3.4.6/mybatis-3.4.6-sources.jar!/org/apache/ibatis/binding/MapperProxy.java&#10;S&#9;FILE&#9;jar://D:/Java/mvnRespo/org/mybatis/mybatis/3.4.6/mybatis-3.4.6-sources.jar!/org/apache/ibatis/session/SqlSession.java" />
+    <property name="SearchEverywhereHistoryKey" value="SqlSession&#9;FILE&#9;jar://D:/Java/mvnRespo/org/mybatis/mybatis/3.4.6/mybatis-3.4.6.jar!/org/apache/ibatis/session/SqlSession.class&#10;Sqlsession&#9;FILE&#9;jar://D:/Java/mvnRespo/org/mybatis/mybatis/3.4.6/mybatis-3.4.6-sources.jar!/org/apache/ibatis/session/defaults/DefaultSqlSession.java&#10;HashMap&#9;PSI&#9;JAVA://java.util.HashMap&#10;Mapper&#9;FILE&#9;jar://D:/Java/mvnRespo/org/mybatis/mybatis/3.4.6/mybatis-3.4.6-sources.jar!/org/apache/ibatis/binding/MapperProxyFactory.java&#10;defaultsqlse&#9;FILE&#9;jar://D:/Java/mvnRespo/org/mybatis/mybatis/3.4.6/mybatis-3.4.6-sources.jar!/org/apache/ibatis/session/defaults/DefaultSqlSession.java&#10;sqlsession&#9;FILE&#9;jar://D:/Java/mvnRespo/org/mybatis/mybatis/3.4.6/mybatis-3.4.6-sources.jar!/org/apache/ibatis/session/SqlSession.java&#10;resulthandler&#9;FILE&#9;jar://D:/Java/mvnRespo/org/mybatis/mybatis/3.4.6/mybatis-3.4.6.jar!/org/apache/ibatis/session/ResultHandler.class&#10;parametermap&#9;FILE&#9;jar://D:/Java/mvnRespo/org/mybatis/mybatis/3.4.6/mybatis-3.4.6-sources.jar!/org/apache/ibatis/mapping/ParameterMapping.java&#10;mapperproxy&#9;FILE&#9;jar://D:/Java/mvnRespo/org/mybatis/mybatis/3.4.6/mybatis-3.4.6-sources.jar!/org/apache/ibatis/binding/MapperProxy.java&#10;config&#9;FILE&#9;jar://D:/Java/mvnRespo/org/mybatis/mybatis/3.4.6/mybatis-3.4.6-sources.jar!/org/apache/ibatis/session/Configuration.java&#10;defaultsql&#9;FILE&#9;jar://D:/Java/mvnRespo/org/mybatis/mybatis/3.4.6/mybatis-3.4.6-sources.jar!/org/apache/ibatis/session/defaults/DefaultSqlSession.java&#10;defaultsqll&#9;null&#9;null&#10;configuration&#9;FILE&#9;jar://D:/Java/mvnRespo/org/mybatis/mybatis/3.4.6/mybatis-3.4.6-sources.jar!/org/apache/ibatis/session/Configuration.java&#10;Mapperproxy&#9;FILE&#9;jar://D:/Java/mvnRespo/org/mybatis/mybatis/3.4.6/mybatis-3.4.6-sources.jar!/org/apache/ibatis/binding/MapperProxy.java&#10;mapperregistry&#9;PSI&#9;JAVA://org.apache.ibatis.binding.MapperRegistry&#10;mapperregi&#9;FILE&#9;jar://D:/Java/mvnRespo/org/mybatis/mybatis/3.4.6/mybatis-3.4.6.jar!/org/apache/ibatis/binding/MapperRegistry.class&#10;mapperprox&#9;FILE&#9;jar://D:/Java/mvnRespo/org/mybatis/mybatis/3.4.6/mybatis-3.4.6-sources.jar!/org/apache/ibatis/binding/MapperProxy.java&#10;S&#9;FILE&#9;jar://D:/Java/mvnRespo/org/mybatis/mybatis/3.4.6/mybatis-3.4.6-sources.jar!/org/apache/ibatis/session/SqlSession.java" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1539249897252" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1540630239311" />
     <property name="jdk.selected.JAVA_MODULE" value="1.8" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../spring-framework/spring-framework-5.0.4.RELEASE/.project" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../mic-vip/2018/20180602-分布式通信框架RMI原理分析/rmi-client" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="C:/Program Files/nodejs/node" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15338793" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+    <property name="settings.editor.selected.configurable" value="fileTemplates" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="com.zhenggq.rpcdemo" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="D:\Java\Share\afterclasswork\mybatis\zgq-mybatis-ex\src\main\java\com\zhenggq\afterclasswork\mybatis\v2\mapper" />
       <recent name="D:\Java\Share\afterclasswork\mybatis\mybatis-ch01\src\main\java\com\zhenggq\afterclasswork\mybatis\ch01\example" />
@@ -526,11 +593,11 @@
       <recent name="D:\Java\Share\afterclasswork\mybatis\mybatis-ch01\src\main\resources\mapper" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.zhenggq.rpcclientdemo" />
+      <recent name="" />
       <recent name="com.zhenggq.afterclasswork.mybatis.v2" />
       <recent name="com.zhenggq.afterclasswork.mybatis.ch01.example" />
       <recent name="com.zhenggq.afterclasswork.mybatis.ch01.vo" />
-      <recent name="com.zhenggq.afterclasswork.mybatis.ch01" />
-      <recent name="com.zhenggq.afterclasswork.pattern.prototype" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="D:\Java\Share\afterclasswork" />
@@ -550,13 +617,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.StaticTest">
-    <configuration name="AbcTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.test.AbcTest" />
-      <module name="mybatis-generator" />
+  <component name="RunManager" selected="Application.TestMethod">
+    <configuration name="ClientDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.zhenggq.rimserver.Client.ClientDemo" />
+      <module name="rmi-server" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.test.*" />
+          <option name="PATTERN" value="com.zhenggq.rimserver.Client.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -564,12 +631,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Entry" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.zhenggq.afterclasswork.mybatis.v1.Entry" />
-      <module name="zgq-mybatis" />
+    <configuration name="ClientDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.zhenggq.rpcclientdemo.ClientDemo" />
+      <module name="rpc-client" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.zhenggq.afterclasswork.mybatis.v1.*" />
+          <option name="PATTERN" value="com.zhenggq.rpcdemo.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -577,12 +644,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StaticTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.test.StaticTest" />
-      <module name="mybatis-generator" />
+    <configuration name="ServerDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.zhenggq.rimserver.impl.ServerDemo" />
+      <module name="rmi-server" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.test.*" />
+          <option name="PATTERN" value="com.zhenggq.rimserver.impl.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -590,50 +657,40 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="BlogMapperTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="mybatis-ch01" />
+    <configuration name="ServiceDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.zhenggq.rpcdemo.ServiceDemo" />
+      <module name="rpc-server" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.zhenggq.afterclasswork.mybatis.ch01.test.*" />
+          <option name="PATTERN" value="com.zhenggq.rpcdemo.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="com.zhenggq.afterclasswork.mybatis.ch01.test" />
-      <option name="MAIN_CLASS_NAME" value="com.zhenggq.afterclasswork.mybatis.ch01.test.BlogMapperTest" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="BlogMapperTest.BlogNAdd1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="mybatis-ch01" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.zhenggq.afterclasswork.mybatis.ch01.test.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.zhenggq.afterclasswork.mybatis.ch01.test" />
-      <option name="MAIN_CLASS_NAME" value="com.zhenggq.afterclasswork.mybatis.ch01.test.BlogMapperTest" />
-      <option name="METHOD_NAME" value="BlogNAdd1" />
-      <option name="TEST_OBJECT" value="method" />
+    <configuration name="TestMethod" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="TestMethod" />
+      <module name="rmi-server" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <list>
-      <item itemvalue="JUnit.BlogMapperTest" />
-      <item itemvalue="JUnit.BlogMapperTest.BlogNAdd1" />
-      <item itemvalue="Application.Entry" />
-      <item itemvalue="Application.StaticTest" />
-      <item itemvalue="Application.AbcTest" />
+      <item itemvalue="Application.ServerDemo" />
+      <item itemvalue="Application.ClientDemo" />
+      <item itemvalue="Application.ServiceDemo" />
+      <item itemvalue="Application.ClientDemo (1)" />
+      <item itemvalue="Application.TestMethod" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.StaticTest" />
-        <item itemvalue="Application.AbcTest" />
-        <item itemvalue="Application.Entry" />
-        <item itemvalue="JUnit.BlogMapperTest" />
-        <item itemvalue="JUnit.BlogMapperTest.BlogNAdd1" />
+        <item itemvalue="Application.TestMethod" />
+        <item itemvalue="Application.ClientDemo (1)" />
+        <item itemvalue="Application.ServiceDemo" />
+        <item itemvalue="Application.ClientDemo" />
+        <item itemvalue="Application.ServerDemo" />
       </list>
     </recent_temporary>
   </component>
@@ -672,13 +729,18 @@
       <workItem from="1539076534905" duration="2503000" />
       <workItem from="1539155255265" duration="2955000" />
       <workItem from="1539225196802" duration="8534000" />
+      <workItem from="1539265549970" duration="990000" />
+      <workItem from="1539305813290" duration="11265000" />
+      <workItem from="1539521319819" duration="1817000" />
+      <workItem from="1539575607888" duration="2292000" />
+      <workItem from="1539763454573" duration="979000" />
+      <workItem from="1539941613275" duration="1791000" />
+      <workItem from="1540567329189" duration="4706000" />
+      <workItem from="1540608197342" duration="10152000" />
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="BlogMapperTest - 2018.09.28 at 17h 07m 12s.xml">
-      <configuration name="BlogMapperTest" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="BlogMapperTest - 2018.09.28 at 17h 16m 58s.xml">
       <configuration name="BlogMapperTest" configurationId="JUnit" />
     </history-entry>
@@ -706,9 +768,12 @@
     <history-entry file="BlogMapperTest - 2018.09.28 at 22h 47m 19s.xml">
       <configuration name="BlogMapperTest" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="BlogMapperTest_BlogNAdd1 - 2018.10.12 at 10h 16m 23s.xml">
+      <configuration name="BlogMapperTest.BlogNAdd1" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="132135000" />
+    <option name="totallyTimeSpent" value="166127000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -721,8 +786,9 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49423963" weight="0.19796138" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49423963" visible="true" weight="0.1995731" />
       <window_info id="Structure" order="1" sideWeight="0.5057604" side_tool="true" weight="0.25751072" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -730,11 +796,11 @@
       <window_info id="Favorites" order="5" sideWeight="0.5011494" side_tool="true" weight="0.34100643" />
       <window_info id="Capture Tool" order="6" />
       <window_info id="JRebel" order="7" side_tool="true" />
-      <window_info anchor="bottom" id="Event Log" order="0" side_tool="true" />
-      <window_info anchor="bottom" id="JRebel remote servers log" order="1" side_tool="true" />
-      <window_info anchor="bottom" id="Messages" order="2" weight="0.3275862" />
+      <window_info anchor="bottom" id="Event Log" order="0" sideWeight="0.5005365" side_tool="true" weight="0.66091955" />
+      <window_info anchor="bottom" id="JRebel remote servers log" order="1" side_tool="true" weight="0.32988507" />
+      <window_info anchor="bottom" id="Messages" order="2" weight="0.3258427" />
       <window_info anchor="bottom" id="Database Changes" order="3" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Terminal" order="4" weight="0.66206896" />
+      <window_info anchor="bottom" id="Terminal" order="4" sideWeight="0.49946353" weight="0.66129035" />
       <window_info anchor="bottom" id="Version Control" order="5" show_stripe_button="false" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32988507" />
       <window_info anchor="bottom" id="JRebel Executor" order="7" />
@@ -742,13 +808,14 @@
       <window_info anchor="bottom" id="FindBugs-IDEA" order="9" weight="0.32988507" />
       <window_info anchor="bottom" id="Message" order="10" />
       <window_info anchor="bottom" id="Find" order="11" weight="0.32988507" />
-      <window_info anchor="bottom" id="Run" order="12" weight="0.34101382" />
-      <window_info anchor="bottom" id="Debug" order="13" weight="0.54262674" />
+      <window_info anchor="bottom" id="Run" order="12" visible="true" weight="0.33932585" />
+      <window_info anchor="bottom" id="Debug" order="13" weight="0.5067416" />
       <window_info anchor="bottom" id="Cvs" order="14" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="15" weight="0.4" />
+      <window_info anchor="bottom" id="Spring" order="16" />
       <window_info anchor="right" id="Capture Analysis" order="0" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="right" id="Maven Projects" order="2" weight="0.32976446" />
+      <window_info anchor="right" id="Maven Projects" order="2" weight="0.32939914" />
       <window_info anchor="right" id="Database" order="3" weight="0.32976446" />
       <window_info anchor="right" id="Palette&#9;" order="4" />
       <window_info anchor="right" id="Theme Preview" order="5" />
@@ -756,41 +823,6 @@
       <window_info anchor="right" id="Commander" order="7" weight="0.4" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="8" weight="0.25" />
     </layout>
-    <layout-to-restore>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49423963" weight="0.19796138" />
-      <window_info id="Structure" order="1" sideWeight="0.5057604" side_tool="true" visible="true" weight="0.25751072" />
-      <window_info id="Designer" order="2" />
-      <window_info id="Image Layers" order="3" />
-      <window_info id="UI Designer" order="4" />
-      <window_info id="Favorites" order="5" sideWeight="0.5011494" side_tool="true" weight="0.34100643" />
-      <window_info id="Capture Tool" order="6" />
-      <window_info id="JRebel" order="7" side_tool="true" />
-      <window_info anchor="bottom" id="Event Log" order="0" side_tool="true" />
-      <window_info anchor="bottom" id="JRebel remote servers log" order="1" side_tool="true" />
-      <window_info anchor="bottom" id="Messages" order="2" weight="0.3275862" />
-      <window_info anchor="bottom" id="Database Changes" order="3" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Terminal" order="4" weight="0.66206896" />
-      <window_info anchor="bottom" id="Version Control" order="5" show_stripe_button="false" />
-      <window_info anchor="bottom" id="TODO" order="6" weight="0.32988507" />
-      <window_info anchor="bottom" id="JRebel Executor" order="7" />
-      <window_info anchor="bottom" id="Tail" order="8" />
-      <window_info anchor="bottom" id="FindBugs-IDEA" order="9" weight="0.32988507" />
-      <window_info anchor="bottom" id="Message" order="10" />
-      <window_info anchor="bottom" id="Find" order="11" weight="0.32988507" />
-      <window_info active="true" anchor="bottom" id="Run" order="12" visible="true" weight="0.34101382" />
-      <window_info anchor="bottom" id="Debug" order="13" weight="0.54262674" />
-      <window_info anchor="bottom" id="Cvs" order="14" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="15" weight="0.4" />
-      <window_info anchor="right" id="Capture Analysis" order="0" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="right" id="Maven Projects" order="2" weight="0.32976446" />
-      <window_info anchor="right" id="Database" order="3" weight="0.32976446" />
-      <window_info anchor="right" id="Palette&#9;" order="4" />
-      <window_info anchor="right" id="Theme Preview" order="5" />
-      <window_info anchor="right" id="Palette" order="6" />
-      <window_info anchor="right" id="Commander" order="7" weight="0.4" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="8" weight="0.25" />
-    </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
@@ -823,28 +855,28 @@
           <option name="timeStamp" value="7" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/mybatis/mybatis-ch01/src/main/java/com/zhenggq/afterclasswork/mybatis/ch01/plugin/ExamplePlugin.java</url>
-          <line>20</line>
-          <properties />
-          <option name="timeStamp" value="10" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>jar://$MAVEN_REPOSITORY$/org/mybatis/mybatis/3.4.6/mybatis-3.4.6-sources.jar!/org/apache/ibatis/binding/MapperMethod.java</url>
-          <line>54</line>
-          <properties />
-          <option name="timeStamp" value="11" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/mybatis/zgq-mybatis/src/main/java/com/zhenggq/afterclasswork/mybatis/v1/ZGQSimpleExecutor.java</url>
           <line>21</line>
           <properties />
           <option name="timeStamp" value="13" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>jar://C:/Program Files (x86)/Java/jdk1.8.0_161/src.zip!/java/util/HashMap.java</url>
-          <line>677</line>
+          <url>jar://$MAVEN_REPOSITORY$/org/mybatis/mybatis/3.4.6/mybatis-3.4.6-sources.jar!/org/apache/ibatis/executor/BaseExecutor.java</url>
+          <line>145</line>
           <properties />
-          <option name="timeStamp" value="15" />
+          <option name="timeStamp" value="16" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/03-distributed/rpc-client/src/main/java/com/zhenggq/rpcclientdemo/TcpEndpoint.java</url>
+          <line>31</line>
+          <properties />
+          <option name="timeStamp" value="17" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/03-distributed/rpc-server/src/main/java/com/zhenggq/rpcdemo/ProcessorHandler.java</url>
+          <line>64</line>
+          <properties />
+          <option name="timeStamp" value="18" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
@@ -935,6 +967,76 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/mybatis/zgq-mybatis/src/main/java/com/zhenggq/afterclasswork/mybatis/v1/Entry.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mybatis/zgq-mybatis/src/main/java/com/zhenggq/afterclasswork/mybatis/v1/ZGQMapperProxy.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="16" column="11" selection-start-line="16" selection-start-column="11" selection-end-line="16" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mybatis/zgq-mybatis/src/main/java/com/zhenggq/afterclasswork/mybatis/v1/ZGQConfiguration.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="304">
+          <caret line="15" column="105" lean-forward="true" selection-start-line="15" selection-start-column="105" selection-end-line="15" selection-end-column="105" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mybatis/zgq-mybatis/src/main/java/com/zhenggq/afterclasswork/mybatis/v1/ZGQDefaultSqlSession.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="600">
+          <caret line="25" column="1" lean-forward="true" selection-start-line="25" selection-start-column="1" selection-end-line="25" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring5-source/ch02/src/main/java/com/zhenggq/afterclasswork/spring5source/ch02/XmlBeanFactoryTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="10" column="16" selection-start-line="10" selection-start-column="16" selection-end-line="10" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mybatis/zgq-mybatis/src/main/java/com/zhenggq/afterclasswork/mybatis/v1/ZGQSqlSession.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/mybatis/mybatis/3.4.6/mybatis-3.4.6.jar!/org/apache/ibatis/session/SqlSession.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="14" column="27" selection-start-line="14" selection-start-column="17" selection-end-line="14" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mybatis/mybatis-ch01/src/main/java/com/zhenggq/afterclasswork/mybatis/ch01/Ch01Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="44" column="56" selection-start-line="44" selection-start-column="47" selection-end-line="44" selection-end-column="56" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/mybatis/mybatis/3.4.6/mybatis-3.4.6-sources.jar!/org/apache/ibatis/session/defaults/DefaultSqlSession.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="6120">
+          <caret line="291" column="31" selection-start-line="291" selection-start-column="31" selection-end-line="291" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/mybatis/mybatis/3.4.6/mybatis-3.4.6-sources.jar!/org/apache/ibatis/session/Configuration.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15720">
+          <caret line="743" column="15" selection-start-line="743" selection-start-column="15" selection-end-line="743" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
     <entry file="jar://$MAVEN_REPOSITORY$/org/mybatis/mybatis/3.4.6/mybatis-3.4.6-sources.jar!/org/apache/ibatis/session/SqlSessionFactory.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="288">
@@ -942,349 +1044,287 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/mybatis/zgq-mybatis/src/main/java/com/zhenggq/afterclasswork/mybatis/v1/ZGQMapperProxy.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="528">
-          <caret line="23" column="70" selection-start-line="23" selection-start-column="70" selection-end-line="23" selection-end-column="70" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mybatis/zgq-mybatis/src/main/java/com/zhenggq/afterclasswork/mybatis/v1/Entry.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="312">
-          <caret line="13" column="50" selection-start-line="13" selection-start-column="50" selection-end-line="13" selection-end-column="50" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mybatis/zgq-mybatis/src/main/java/com/zhenggq/afterclasswork/mybatis/v1/ZGQDefaultSqlSession.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="15" column="12" selection-start-line="15" selection-start-column="12" selection-end-line="15" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mybatis/zgq-mybatis-ex/pom.xml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mybatis/zgq-mybatis/src/main/java/com/zhenggq/afterclasswork/mybatis/v1/ZGQSqlSession.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="288">
-          <caret line="12" column="36" selection-start-line="12" selection-start-column="27" selection-end-line="12" selection-end-column="36" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/mybatis/mybatis/3.4.6/mybatis-3.4.6.jar!/org/apache/ibatis/binding/MapperRegistry.class">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mybatis/zgq-mybatis/src/main/java/com/zhenggq/afterclasswork/mybatis/v1/ZGQExecutor.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="216">
-          <caret line="9" column="17" selection-start-line="9" selection-start-column="17" selection-end-line="9" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/mybatis/mybatis/3.4.6/mybatis-3.4.6-sources.jar!/org/apache/ibatis/annotations/Select.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="264">
-          <caret line="29" column="18" selection-start-line="29" selection-start-column="18" selection-end-line="29" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mybatis/zgq-mybatis/src/main/java/com/zhenggq/afterclasswork/mybatis/v1/ZGQConfiguration.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="216">
-          <caret line="11" column="3" lean-forward="true" selection-start-line="11" selection-start-column="3" selection-end-line="11" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/mybatis/mybatis/3.4.6/mybatis-3.4.6-sources.jar!/org/apache/ibatis/executor/SimpleExecutor.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="427">
-          <caret line="73" column="25" lean-forward="true" selection-start-line="73" selection-start-column="25" selection-end-line="73" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/mybatis/mybatis/3.4.6/mybatis-3.4.6-sources.jar!/org/apache/ibatis/executor/statement/StatementHandler.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="477">
-          <caret line="47" column="16" selection-start-line="47" selection-start-column="16" selection-end-line="47" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/mybatis/mybatis/3.4.6/mybatis-3.4.6-sources.jar!/org/apache/ibatis/executor/statement/SimpleStatementHandler.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="343">
-          <caret line="80" column="16" lean-forward="true" selection-start-line="80" selection-start-column="11" selection-end-line="80" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/mybatis/mybatis/3.4.6/mybatis-3.4.6-sources.jar!/org/apache/ibatis/executor/statement/BaseStatementHandler.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="253">
-          <caret line="43" column="34" selection-start-line="43" selection-start-column="18" selection-end-line="43" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mybatis/zgq-mybatis/src/main/java/com/zhenggq/afterclasswork/mybatis/v1/Test/UserMapper.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="192">
-          <caret line="8" column="29" selection-start-line="8" selection-start-column="29" selection-end-line="8" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mybatis/zgq-mybatis/src/main/java/com/zhenggq/afterclasswork/mybatis/v1/Test/User.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="765">
-          <caret line="42" column="43" selection-start-line="42" selection-start-column="43" selection-end-line="42" selection-end-column="43" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mybatis/zgq-mybatis-ex/src/main/java/com/zhenggq/afterclasswork/mybatis/v2/mapper/User.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/mybatis/mybatis/3.4.6/mybatis-3.4.6-sources.jar!/org/apache/ibatis/mapping/ParameterMapping.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-648">
-          <caret line="44" column="29" selection-start-line="44" selection-start-column="22" selection-end-line="44" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/mybatis/mybatis/3.4.6/mybatis-3.4.6-sources.jar!/org/apache/ibatis/session/Configuration.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="209">
-          <caret line="737" column="3" lean-forward="true" selection-start-line="737" selection-start-column="3" selection-end-line="737" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/mybatis/mybatis/3.4.6/mybatis-3.4.6-sources.jar!/org/apache/ibatis/binding/MapperRegistry.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="336">
-          <caret line="48" column="9" lean-forward="true" selection-start-line="48" selection-start-column="9" selection-end-line="48" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mybatis/zgq-mybatis-ex/src/main/java/com/zhenggq/afterclasswork/mybatis/v2/ZGQSqlSession.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="259">
-          <caret line="12" column="23" selection-start-line="12" selection-start-column="12" selection-end-line="12" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mybatis/zgq-mybatis-ex/src/main/java/com/zhenggq/afterclasswork/mybatis/v2/ZGQMapperProxy.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="595">
-          <caret line="26" column="5" lean-forward="true" selection-start-line="26" selection-start-column="5" selection-end-line="26" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mybatis/zgq-mybatis-ex/src/main/java/com/zhenggq/afterclasswork/mybatis/v2/ZGQResultSet.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="192">
-          <caret line="8" column="25" selection-start-line="8" selection-start-column="25" selection-end-line="8" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files (x86)/Java/jdk1.8.0_161/src.zip!/java/sql/ResultSet.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="271">
-          <caret line="147" column="17" selection-start-line="147" selection-start-column="17" selection-end-line="147" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mybatis/zgq-mybatis-ex/src/main/java/com/zhenggq/afterclasswork/mybatis/v2/mapper/UserMapper.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="10" column="17" selection-start-line="10" selection-start-column="17" selection-end-line="10" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/mybatis/mybatis/3.4.6/mybatis-3.4.6-sources.jar!/org/apache/ibatis/binding/MapperMethod.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="96">
-          <caret line="42" column="13" selection-start-line="42" selection-start-column="13" selection-end-line="42" selection-end-column="13" />
-          <folding>
-            <element signature="e#7558#7564#0" expanded="true" />
-            <element signature="e#7671#7677#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mybatis/zgq-mybatis-ex/src/main/java/com/zhenggq/afterclasswork/mybatis/v2/ZGQSimpleExecutor.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="432">
-          <caret line="18" column="5" selection-start-line="18" selection-start-column="5" selection-end-line="18" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files (x86)/Java/jdk1.8.0_161/src.zip!/java/lang/String.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="280">
-          <caret line="110" column="19" selection-start-line="110" selection-start-column="19" selection-end-line="110" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mybatis/zgq-mybatis-ex/src/main/java/com/zhenggq/afterclasswork/mybatis/v2/ZGQExecutor.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="288">
-          <caret line="12" selection-start-line="12" selection-end-line="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mybatis/zgq-mybatis-ex/src/main/java/com/zhenggq/afterclasswork/mybatis/v2/ZGQResultSetHandler.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="10" column="32" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mybatis/zgq-mybatis-ex/src/main/java/com/zhenggq/afterclasswork/mybatis/v2/ZGQStatementHandler.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="816">
-          <caret line="34" column="33" selection-start-line="34" selection-start-column="33" selection-end-line="34" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mybatis/zgq-mybatis-ex/src/main/java/com/zhenggq/afterclasswork/mybatis/v2/annotations/Select.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="15" column="19" selection-start-line="15" selection-start-column="19" selection-end-line="15" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mybatis/zgq-mybatis-ex/src/main/java/com/zhenggq/afterclasswork/mybatis/v2/ZGQConfiguration.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="288">
-          <caret line="12" column="44" selection-start-line="12" selection-start-column="30" selection-end-line="12" selection-end-column="44" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mybatis/zgq-mybatis-ex/src/main/java/com/zhenggq/afterclasswork/mybatis/v2/ZGQMapperRegister.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="408">
-          <caret line="18" column="113" selection-start-line="18" selection-start-column="113" selection-end-line="18" selection-end-column="113" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/mybatis/mybatis/3.4.6/mybatis-3.4.6-sources.jar!/org/apache/ibatis/session/SqlSessionManager.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="192">
-          <caret line="34" column="13" selection-start-line="34" selection-start-column="13" selection-end-line="34" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mybatis/mybatis-ch01/src/main/java/com/zhenggq/afterclasswork/mybatis/ch01/Ch01Test.java">
+    <entry file="file://$PROJECT_DIR$/mybatis/mybatis-generator/src/main/resources/dataSource.properties">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="72">
-          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+          <caret line="3" column="24" selection-start-line="3" selection-start-column="24" selection-end-line="3" selection-end-column="24" />
         </state>
       </provider>
     </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/mybatis/mybatis/3.4.6/mybatis-3.4.6-sources.jar!/org/apache/ibatis/session/SqlSession.java">
+    <entry file="file://$PROJECT_DIR$/mybatis/mybatis-generator/src/main/resources/mybatis/generatorConfig.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="408">
-          <caret line="37" column="26" selection-start-line="37" selection-start-column="26" selection-end-line="37" selection-end-column="26" />
+        <state relative-caret-position="1296">
+          <caret line="54" column="16" selection-start-line="54" selection-start-column="16" selection-end-line="54" selection-end-column="16" />
         </state>
       </provider>
     </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/mybatis/mybatis/3.4.6/mybatis-3.4.6.jar!/org/apache/ibatis/session/ResultHandler.class">
+    <entry file="file://$PROJECT_DIR$/mybatis/mybatis-generator/src/main/java/org/nbsframework/zhengzhou/target/dynamictable/dao/TargetTableBytearrayMapper.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="96">
-          <caret line="7" column="30" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="30" />
+        <state relative-caret-position="744">
+          <caret line="34" column="56" selection-start-line="8" selection-start-column="3" selection-end-line="34" selection-end-column="56" />
         </state>
       </provider>
     </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/mybatis/mybatis/3.4.6/mybatis-3.4.6-sources.jar!/org/apache/ibatis/executor/result/DefaultResultHandler.java">
+    <entry file="file://$PROJECT_DIR$/mybatis/mybatis-generator/src/main/java/org/nbsframework/zhengzhou/target/dynamictable/vo/TargetTableBytearray.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="288">
-          <caret line="31" column="33" selection-start-line="31" selection-start-column="33" selection-end-line="31" selection-end-column="33" />
+        <state relative-caret-position="48">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/mybatis/mybatis/3.4.6/mybatis-3.4.6-sources.jar!/org/apache/ibatis/session/defaults/DefaultSqlSession.java">
+    <entry file="file://$PROJECT_DIR$/mybatis/mybatis-generator/src/main/java/org/nbsframework/zhengzhou/target/dynamictable/mybatis/TargetTableBytearrayMapper.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2664">
-          <caret line="147" column="27" selection-start-line="147" selection-start-column="22" selection-end-line="147" selection-end-column="27" />
+        <state relative-caret-position="4032">
+          <caret line="168" column="38" selection-start-line="168" selection-start-column="38" selection-end-line="168" selection-end-column="38" />
         </state>
       </provider>
     </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/mybatis/mybatis/3.4.6/mybatis-3.4.6-sources.jar!/org/apache/ibatis/executor/BaseExecutor.java">
+    <entry file="file://$PROJECT_DIR$/03-distributed/pom.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/design-pattern/pattern-factory/pom.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/03-distributed/rmi-server/pom.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/03-distributed/rmi-server/src/main/java/com/zhenggq/rimserver/IHelloService.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2808">
-          <caret line="158" column="19" selection-start-line="158" selection-start-column="19" selection-end-line="158" selection-end-column="19" />
+        <state relative-caret-position="312">
+          <caret line="13" column="31" selection-start-line="13" selection-start-column="31" selection-end-line="13" selection-end-column="31" />
         </state>
       </provider>
     </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/mybatis/mybatis/3.4.6/mybatis-3.4.6-sources.jar!/org/apache/ibatis/executor/Executor.java">
+    <entry file="jar://C:/Program Files (x86)/Java/jdk1.8.0_161/src.zip!/java/rmi/Remote.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="624">
+          <caret line="49" column="17" selection-start-line="49" selection-start-column="17" selection-end-line="49" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files (x86)/Java/jdk1.8.0_161/src.zip!/java/rmi/server/UnicastRemoteObject.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2904">
+          <caret line="146" column="47" selection-start-line="146" selection-start-column="47" selection-end-line="146" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files (x86)/Java/jdk1.8.0_161/src.zip!/java/rmi/server/RemoteServer.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="384">
-          <caret line="40" column="14" selection-start-line="40" selection-start-column="14" selection-end-line="40" selection-end-column="14" />
+          <caret line="41" column="47" selection-start-line="41" selection-start-column="47" selection-end-line="41" selection-end-column="47" />
         </state>
       </provider>
     </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/mybatis/mybatis/3.4.6/mybatis-3.4.6-sources.jar!/org/apache/ibatis/binding/MapperProxyFactory.java">
+    <entry file="jar://C:/Program Files (x86)/Java/jdk1.8.0_161/src.zip!/java/rmi/server/RemoteObject.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="192">
-          <caret line="27" column="13" selection-start-line="27" selection-start-column="13" selection-end-line="27" selection-end-column="13" />
+        <state relative-caret-position="408">
+          <caret line="43" column="48" selection-start-line="43" selection-start-column="48" selection-end-line="43" selection-end-column="48" />
         </state>
       </provider>
     </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/mybatis/mybatis/3.4.6/mybatis-3.4.6-sources.jar!/org/apache/ibatis/binding/MapperProxy.java">
+    <entry file="file://$PROJECT_DIR$/03-distributed/rpc-server/pom.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/03-distributed/rpc-client/pom.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="jar://C:/Program Files (x86)/Java/jdk1.8.0_161/src.zip!/java/net/ServerSocket.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="648">
-          <caret line="51" selection-start-line="51" selection-end-line="51" />
+        <state relative-caret-position="-3416">
+          <caret line="126" column="11" selection-start-line="126" selection-start-column="11" selection-end-line="126" selection-end-column="11" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
+    <entry file="jar://C:/Program Files (x86)/Java/jdk1.8.0_161/src.zip!/java/lang/reflect/Method.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="10" column="13" lean-forward="true" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+        <state relative-caret-position="249">
+          <caret line="111" column="7" selection-start-line="111" selection-start-column="7" selection-end-line="111" selection-end-column="7" />
         </state>
       </provider>
     </entry>
-    <entry file="jar://C:/Program Files (x86)/Java/jdk1.8.0_161/jre/lib/rt.jar!/sun/misc/URLClassPath.class">
+    <entry file="file://$PROJECT_DIR$/03-distributed/rpc-server/src/main/java/com/zhenggq/rpcdemo/TcpEndpoint.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="260">
-          <caret line="169" selection-start-line="169" selection-end-line="169" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mybatis/mybatis-generator/src/test/java/com/test/Cba.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="192">
-          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mybatis/mybatis-generator/src/test/java/com/test/Abc.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="312">
-          <caret line="13" column="5" lean-forward="true" selection-start-line="13" selection-start-column="5" selection-end-line="13" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mybatis/mybatis-generator/src/test/java/com/test/AbcTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="312">
-          <caret line="64" column="38" lean-forward="true" selection-start-line="64" selection-start-column="38" selection-end-line="64" selection-end-column="38" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mybatis/mybatis-generator/src/test/java/com/test/StaticTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="374">
-          <caret line="54" lean-forward="true" selection-start-line="54" selection-end-line="54" />
+        <state relative-caret-position="465">
+          <caret line="50" column="71" lean-forward="true" selection-start-line="47" selection-start-column="12" selection-end-line="50" selection-end-column="71" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#801#816#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="jar://C:/Program Files (x86)/Java/jdk1.8.0_161/src.zip!/java/util/HashMap.java">
+    <entry file="file://$PROJECT_DIR$/03-distributed/rpc-server/src/main/java/com/zhenggq/rpcdemo/HelloWordImpl.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="175">
-          <caret line="629" column="32" lean-forward="true" selection-start-line="629" selection-start-column="32" selection-end-line="629" selection-end-column="32" />
+        <state relative-caret-position="133">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/03-distributed/rpc-client/src/main/java/com/zhenggq/rpcclientdemo/s.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="2" selection-start-line="2" selection-end-line="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/03-distributed/rpc-server/src/main/java/com/zhenggq/rpcdemo/IHelloWord.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="8" column="3" selection-start-line="8" selection-start-column="3" selection-end-line="8" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/03-distributed/rpc-server/src/main/java/com/zhenggq/rpcdemo/RequestData.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="802">
+          <caret line="49" column="30" selection-start-line="49" selection-start-column="30" selection-end-line="49" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files (x86)/Java/jdk1.8.0_161/src.zip!/java/io/ObjectInputStream.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="179">
+          <caret line="3145" selection-start-line="3145" selection-end-line="3145" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/03-distributed/rpc-client/src/main/java/com/zhenggq/rpcdemo/RequestData.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="10" column="18" lean-forward="true" selection-start-line="10" selection-start-column="18" selection-end-line="10" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/03-distributed/rpc-client/src/main/java/com/zhenggq/rpcdemo/IHelloWord.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="8" column="17" selection-start-line="8" selection-start-column="17" selection-end-line="8" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/03-distributed/rpc-client/src/main/java/com/zhenggq/rpcclientdemo/TcpEndpoint.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="167">
+          <caret line="33" selection-start-line="33" selection-end-line="33" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/03-distributed/rpc-server/src/main/java/com/zhenggq/rpcdemo/ProcessorHandler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="186">
+          <caret line="67" column="22" selection-start-line="67" selection-start-column="22" selection-end-line="67" selection-end-column="22" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/03-distributed/rpc-client/src/main/java/com/zhenggq/rpcclientdemo/RemoteInvocationHandler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="25" column="21" selection-start-line="25" selection-start-column="21" selection-end-line="25" selection-end-column="21" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/03-distributed/rpc-client/src/main/java/com/zhenggq/rpcclientdemo/RpcClient.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="8" column="16" lean-forward="true" selection-start-line="8" selection-start-column="16" selection-end-line="8" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/03-distributed/rpc-client/src/main/java/com/zhenggq/rpcclientdemo/ClientDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="277">
+          <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/03-distributed/rpc-server/src/main/java/com/zhenggq/rpcdemo/ServiceDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="247">
+          <caret line="13" column="37" lean-forward="true" selection-start-line="13" selection-start-column="37" selection-end-line="13" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/03-distributed/rpc-server/src/main/java/com/zhenggq/rpcdemo/RpcServer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="441">
+          <caret line="31" lean-forward="true" selection-start-line="31" selection-end-line="31" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/03-distributed/rmi-server/src/main/java/com/zhenggq/rimserver/Client/ClientDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="386">
+          <caret line="26" column="5" lean-forward="true" selection-start-line="26" selection-start-column="5" selection-end-line="26" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/03-distributed/rmi-server/src/main/java/com/zhenggq/rimserver/impl/HelloServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="17" column="46" selection-start-line="17" selection-start-column="46" selection-end-line="17" selection-end-column="46" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/03-distributed/rmi-server/src/main/java/com/zhenggq/rimserver/impl/ServerDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="24" column="33" lean-forward="true" selection-start-line="24" selection-start-column="33" selection-end-line="24" selection-end-column="33" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files (x86)/Java/jdk1.8.0_161/src.zip!/java/rmi/registry/LocateRegistry.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="206">
+          <caret line="202" column="24" selection-start-line="202" selection-start-column="24" selection-end-line="202" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files (x86)/Java/jdk1.8.0_161/jre/lib/rt.jar!/sun/rmi/registry/RegistryImpl.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="54">
+          <caret line="113" lean-forward="true" selection-start-line="113" selection-end-line="113" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files (x86)/Java/jdk1.8.0_161/src.zip!/java/rmi/Naming.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-41">
+          <caret line="71" column="19" selection-start-line="71" selection-start-column="19" selection-end-line="71" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files (x86)/Java/jdk1.8.0_161/jre/lib/rt.jar!/sun/rmi/server/UnicastServerRef.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="130">
+          <caret line="101" column="18" selection-start-line="101" selection-start-column="18" selection-end-line="101" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/03-distributed/rmi-server/src/test/java/TestMethod.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="443">
+          <caret line="26" column="42" selection-start-line="26" selection-start-column="42" selection-end-line="26" selection-end-column="42" />
         </state>
       </provider>
     </entry>
@@ -1305,7 +1345,7 @@
       </state>
       <state key="FacetStructureConfigurable.UI">
         <settings>
-          <last-edited>No facets are configured</last-edited>
+          <last-edited>Spring</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
@@ -1340,7 +1380,7 @@
       </state>
       <state key="ModuleStructureConfigurable.UI">
         <settings>
-          <last-edited>design-pattern</last-edited>
+          <last-edited>spring5-source</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
@@ -1365,6 +1405,7 @@
       </state>
       <state key="ProjectLibrariesConfigurable.UI">
         <settings>
+          <last-edited>Maven: ch.qos.logback:logback-classic:1.2.3</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>

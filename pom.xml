@@ -11,7 +11,27 @@
     <modules>
         <module>design-pattern</module>
         <module>mybatis</module>
+        <module>spring5-source</module>
+        <module>03-distributed</module>
     </modules>
+
+    <properties>
+        <spirng.version>5.0.4.RELEASE</spirng.version>
+    </properties>
+
+    <dependencyManagement>
+        <dependencies>
+            <!-- https://mvnrepository.com/artifact/org.springframework/spring-context -->
+            <dependency>
+                <groupId>org.springframework</groupId>
+                <artifactId>spring-context</artifactId>
+                <version>${spirng.version}</version>
+            </dependency>
+
+
+        </dependencies>
+
+    </dependencyManagement>
 
 
 </project>
